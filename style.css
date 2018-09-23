@@ -1,5 +1,5 @@
 body { /* set the background image and size */
-    background: url("images/fuji_sunrise.jpg") no-repeat center fixed; 
+    background: url("images/fuji_sunrise.JPG") no-repeat center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
