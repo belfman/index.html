@@ -7,6 +7,7 @@ body { /* set the background image and size */
     /* background-attachment: fixed; */
 }
 ul {
+    z-index: 1;
     margin: 0px;
     padding: 0px;
     list-style-type: none; /*take out bullet points from lists */
